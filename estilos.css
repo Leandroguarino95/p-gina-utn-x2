@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.header{
+    background-color: cornflowerblue;
+    color: white;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+#contenedor{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.logo{
+    
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.logo a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.navbar{
+     color: white;
+     background-color: darkblue;
+     height: 25px;
+     text-align: right;
+     list-style-type: none;
+     padding-right: 60px;
+     padding-top: 5px;
+}
+
+.navbar ul li{
+display: inline-block;
+}
+
+.navbar ul li a{
+    color: white;
+    text-decoration: none;   
+    padding-left: 10px;
+}
+
+.footer{
+    background-color: rgb(140, 205, 226);
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    height: 34px;
+    font-size: 19px;
+}
+
+.titulos{
+    background-color: white;
+}
+
+.td1 {
+    background-color: darkgray;
+    padding: 50px;
+}
+
+.cuadro {
+    text-align: left;
+    display: inline-block;
+    width: 45%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.contenedor1{
+    background-color: whitesmoke;
+    padding: 8px;
+
+}
+
+.contenedor2{
+    background-color: whitesmoke;
+    padding: 8px;
+}
+
+.td2{
+    padding-top: 5px;
+    text-align: center;
+    background-color: darkslategrey;
+}
